@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["campaign.new-campaign"],{a9d9:function(n,p,e){n.exports=e.p+"img/berserker.1ec7c721.svg"},c46e:function(n,p,e){n.exports=e.p+"img/shaman.626584fa.svg"},ffdb:function(n,p,e){n.exports=e.p+"img/primate.00132bf5.svg"}}]);

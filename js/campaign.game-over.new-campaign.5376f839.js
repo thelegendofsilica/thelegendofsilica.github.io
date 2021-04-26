@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["campaign.game-over.new-campaign"],{a9d9:function(e,n,p){e.exports=p.p+"img/berserker.1ec7c721.svg"},c46e:function(e,n,p){e.exports=p.p+"img/shaman.626584fa.svg"},ffdb:function(e,n,p){e.exports=p.p+"img/primate.00132bf5.svg"}}]);
